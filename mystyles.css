@@ -1,0 +1,23 @@
+body
+{background-color: lightpink;}
+
+.columna{
+    display: flex;
+    flex-direction: column;
+
+    min-height: 100vh;
+}
+
+.R01cintillo{
+    display: flex;
+    flex-direction: row;
+    
+    background-color: aquamarine;
+}
+
+.R05fila1{
+    display: flex;
+    flex-direction: row;
+    
+    background-color: rgb(225, 162, 25);
+}
